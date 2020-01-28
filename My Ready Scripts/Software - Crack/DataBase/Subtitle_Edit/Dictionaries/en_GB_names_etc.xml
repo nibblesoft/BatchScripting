@@ -1,0 +1,134 @@
+<!-- This list contains names/words with specific casing - and specific to english only -->
+<ignore_list>
+  <name>A.M.</name>
+  <name>Abolfazl</name>
+  <name>Adrian's</name>
+  <name>Alain</name>
+  <name>Alberte</name>
+  <name>Aleksa</name>
+  <name>Amalie</name>
+  <name>Amirali</name>
+  <name>Anderson</name>
+  <name>Artyom</name>
+  <name>Ashland</name>
+  <name>Athens</name>
+  <name>Aziz</name>
+  <name>C.O.</name>
+  <name>C.T.</name>
+  <name>Callum</name>
+  <name>Canadian</name>
+  <name>Centerville</name>
+  <name>CEOs</name>
+  <name>Chengchou</name>
+  <name>Christoffer</name>
+  <name>Cochrane</name>
+  <name>Cruella</name>
+  <name>Czech Republic</name>
+  <name>D.C.</name>
+  <name>Danish</name>
+  <name>DJs</name>
+  <name>E.R.</name>
+  <name>E.R.P.</name>
+  <name>Ehsan</name>
+  <name>Elgyn</name>
+  <name>Emilie</name>
+  <name>Erwan</name>
+  <name>Federal Bureau of Investigation</name>
+  <name>Fergie</name>
+  <name>Fifi</name>
+  <name>Finnish</name>
+  <name>Fiona's</name>
+  <name>Fiori</name>
+  <name>Fortunato</name>
+  <name>Frederik</name>
+  <name>Frederikke</name>
+  <name>French Guiana</name>
+  <name>French Metropolitan</name>
+  <name>French Polynesia</name>
+  <name>French Southern Territories</name>
+  <name>Frida</name>
+  <name>Gediman</name>
+  <name>Geneva</name>
+  <name>German</name>
+  <name>Germans</name>
+  <name>Greenville</name>
+  <name>Griselda</name>
+  <name>Hamid</name>
+  <name>Hillard</name>
+  <name>Hjalte</name>
+  <name>Hossein</name>
+  <name>Hyatt</name>
+  <name>Ines</name>
+  <name>Insulin</name>
+  <name>Iraqis</name>
+  <name>Isadora</name>
+  <name>Israelis</name>
+  <name>Itzel</name>
+  <name>Ivana</name>
+  <name>Ivanna</name>
+  <name>Ivanova</name>
+  <name>Jeppe</name>
+  <name>Jewish</name>
+  <name>Jimmy Wales</name>
+  <name>Johanne</name>
+  <name>Johner</name>
+  <name>Josefine</name>
+  <name>Julian Assange</name>
+  <name>Kardashians</name>
+  <name>Kasper</name>
+  <name>Katrine</name>
+  <name>Lachlan</name>
+  <name>Lærke</name>
+  <name>Langford</name>
+  <name>Laurits</name>
+  <name>Lazar</name>
+  <name>Leoni</name>
+  <name>Lindberg</name>
+  <name>Linfield</name>
+  <name>Luca</name>
+  <name>Luka</name>
+  <name>Lukas</name>
+  <name>Malou</name>
+  <name>Malthe</name>
+  <name>Mathilde</name>
+  <name>Mattei</name>
+  <name>McHenry</name>
+  <name>Mélanie</name>
+  <name>Merion</name>
+  <name>Mikkel</name>
+  <name>Mille</name>
+  <name>Moulin Rouge</name>
+  <name>New Hampshire</name>
+  <name>New Jersey</name>
+  <name>Nicoline</name>
+  <name>Nikolaj</name>
+  <name>Omni</name>
+  <name>Phineas</name>
+  <name>Puerta</name>
+  <name>Purvis</name>
+  <name>Rasmus</name>
+  <name>Reza</name>
+  <name>Rhode Island</name>
+  <name>Riddick</name>
+  <name>Ridgefield</name>
+  <name>Ridgefield's</name>
+  <name>Russian</name>
+  <name>Russians</name>
+  <name>Scully</name>
+  <name>Shaolin</name>
+  <name>Signe</name>
+  <name>Skunk Anansie</name>
+  <name>Swedish</name>
+  <name>Tortugas</name>
+  <name>V2</name>
+  <name>Valdemar</name>
+  <name>Vladislav</name>
+  <name>West Virginia</name>
+  <name>Weyland</name>
+  <name>Wolfie</name>
+  <name>Yonatan</name>
+  <name>Yosef</name>
+  <name>Yousouf</name>
+  <name>Yutani</name>
+  <name>Zefram</name>
+</ignore_list>

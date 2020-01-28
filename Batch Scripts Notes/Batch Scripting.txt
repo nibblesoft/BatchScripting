@@ -1,0 +1,30 @@
+CTRL + F5 = hard refresh
+Windows Event Viwer how does it works
+
+net help user | more
+net user Ivandrofly * --> to prompt password input by user
+
+:: this cause command error sometimes
+!! if command expansion is enables your will need to espace it to display it with two carets ^^!^^!
+
+Variables
+%%~nG
+%~1 = this is mostly used in call parametres
+ex: call :menu "ivandrofly"
+, = sometimes is bettar then dot(.) sometimes the dot shows at the runtimes like in loop command
+^= This is the scape character for scaping the ! we need to use the ^^ carrets...
+() = the brakest need to be use skyped something inside a statement like following:
+	if a = b (
+		echo not equals ^(a^)
+	) else (
+		echo not equals
+	)
+it will remove the quotetion mark in parametere
+
+() = to use parenteses inside statements wemust skipe it with  ^(^)
+
+Comparing if nothing entered inside statements = "!t:~0,1!" == "~0,1"
+route: command will fix unidentified network in you pc
+
+Make file 0 bytes
+type NUL > EmptyFile.txt

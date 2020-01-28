@@ -1,0 +1,58 @@
+@ECHO OFF
+	CLS
+	ECHO.
+	ECHO.
+	ECHO.
+	SETLOCAL ENABLEDELAYEDEXPANSION
+	ECHO ENTER A NAME AND IT WILL BE INVERTED (NAME WITH 2 CHAR)
+	ECHO.
+	ECHO EXAMPLE: NA, AB, BC, CB... ETC
+	ECHO.
+	SET /P NAME="TYPE THE NAME HERE AND PRESS ENTER: "
+	
+	GOTO JUMP1
+	
+	REM         NA        A             N
+	SET VAR1=!!NAME:%NAME:~-1,1%=%NAME:~0,1%!!
+	REM THIS LINE WIL STILL REMAINING NA IN VARIABLE
+	REM         NN        N             A
+	SET NAME1=!!VAR1:%VAR1:~0,1%=%NAME:~-1,1%!!
+	REM SET NAME=%%NAME:%NAME:~-1%=%NAME:~1%%%
+	ECHO !NAME1!
+	PAUSE >NUL
+	
+	REM NOTE ALL NN WILL BE REPLACED WITH AA
+	REM BECAUSE %VAR1:~0,1% INDICATE THAT WE WANT REPLACE ALL CHAR 'NN' WITH 'AA'
+	
+	REM -------------------------------------------------------------------------
+	:JUMP1
+	REM                  NA       A                N
+	REM                  NN
+	CALL SET VARIABLE1=%%NAME:%NAME:~-1,1%=%NAME:~0,1%%%
+	
+	REM   NA           NN
+	ECHO %NAME% -[%VARIABLE1%]
+	PAUSE >NUL
+	
+	REM                  NA       N                A
+	REM                  AA
+	CALL SET VARIABLE2=%%NAME:%NAME:~0,1%=%NAME:~-1,1%%%
+	
+	REM   NA         AA
+	ECHO %NAME% -[%VARIABLE2%]
+	PAUSE >NUL
+	
+	REM EOF MEANS --> GOTO END OF LINES
+	GOTO :EOF
+	
+	
+	:JUMP2
+	ECHO.
+	ECHO.
+	SET VAR1=!NAME:~-1,1!
+	SET VAR2=!NAME:~0,1!
+	
+	REM IT WILL RESULT AN {IF WE HAVE ENTERED NA}
+	@COLOR A
+	@ECHO THE RESULTAT IS ---^> [!VAR1!!VAR2!]
+	PAUSE >NUL

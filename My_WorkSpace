@@ -1,0 +1,89 @@
+<NotepadPlus>
+    <Project name="Batch Scripts">
+        <Folder name="Ready Batch Scripts">
+            <Folder name="Software - Crack">
+                <Folder name="DataBase">
+                    <Folder name="Notepad++">
+                        <Folder name="plugins">
+                            <Folder name="config">
+                                <Folder name="NppFTP">
+                                    <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\NppFTP\Certificates.xml" />
+                                    <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\NppFTP\NppFTP.xml" />
+                                </Folder>
+                                <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\converter.ini" />
+                                <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\PluginManager.ini" />
+                                <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\PluginManagerPlugins.xml" />
+                                <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\PluginManagerPlugins.zip" />
+                                <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\plugins\config\SpellChecker.ini" />
+                            </Folder>
+                        </Folder>
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\config.xml" />
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\contextMenu.xml" />
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\langs.xml" />
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\shortcuts.xml" />
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Notepad++\stylers.xml" />
+                    </Folder>
+                    <Folder name="Subtitle_Edit">
+                        <Folder name="Dictionaries">
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\dan_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\da_DK_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\da_DK_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\deu_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\de_DE_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\eng_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\en_GB_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\en_US.aff" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\en_US.dic" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\en_US_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\en_US_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\fin_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\fi_fi_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\fi_fi_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\fra_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\nor_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\por_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\pt_BR_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\pt_BR_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\rus_OCRFixReplaceList.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\ru_RU_names_etc.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\ru_RU_user.xml" />
+                            <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Dictionaries\swe_OCRFixReplaceList.xml" />
+                        </Folder>
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Subtitle_Edit\Settings.xml" />
+                    </Folder>
+                    <Folder name="Winrar">
+                        <File name="My Ready Scripts\Software - Crack\DataBase\Winrar\rarreg.key" />
+                    </Folder>
+                </Folder>
+                <Folder name="SubFiles">
+                    <File name="My Ready Scripts\Software - Crack\SubFiles\Notepad++.bat" />
+                    <File name="My Ready Scripts\Software - Crack\SubFiles\Subtitle_edit.bat" />
+                    <File name="My Ready Scripts\Software - Crack\SubFiles\Winrar.bat" />
+                </Folder>
+                <File name="My Ready Scripts\Software - Crack\index.bat" />
+                <File name="My Ready Scripts\Software - Crack\readme.txt" />
+            </Folder>
+            <File name="My Ready Scripts\Attrib_Defaulter.bat" />
+            <File name="My Ready Scripts\Autorun Manager.bat" />
+            <File name="My Ready Scripts\Batch_Cleaner.bat" />
+            <File name="My Ready Scripts\Characters Invertor.bat" />
+            <File name="My Ready Scripts\Computer Mac Finder.bat" />
+            <File name="My Ready Scripts\Connect_Computers_Checker.bat" />
+            <File name="My Ready Scripts\Driver Name Changer.cmd" />
+            <File name="My Ready Scripts\Empty_checker.bat" />
+            <File name="My Ready Scripts\Files_Organizer.cmd" />
+            <File name="My Ready Scripts\GodMode Script.bat" />
+            <File name="My Ready Scripts\Hidden_Files_Restorer.bat" />
+            <File name="My Ready Scripts\Pwd Changer.bat" />
+            <File name="My Ready Scripts\Release_name_Clipper.bat" />
+            <File name="My Ready Scripts\Skype Users Cleaner.bat" />
+            <File name="My Ready Scripts\Subtitles Organizer.bat" />
+            <File name="My Ready Scripts\Subtitle_Checker.bat" />
+            <File name="My Ready Scripts\Symbolic Link Maker.bat" />
+            <File name="My Ready Scripts\Tv_Organizer_v1.bat" />
+            <File name="My Ready Scripts\Variables Restorer.bat" />
+            <File name="My Ready Scripts\Workspace.rar" />
+        </Folder>
+    </Project>
+</NotepadPlus>

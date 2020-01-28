@@ -1,0 +1,41 @@
+@ECHO OFF
+	CLS
+	TITLE PAIR NUMBER FINDER
+	SETLOCAL ENABLEDELAYEDEXPANSION
+	:MENU
+		color
+		ECHO.
+		ECHO.
+		ECHO ENTER A PAIR NUMBER OR IMPAIR NUMBER (DON'T ENTER A CHARAPTER)^^!
+		SET /P NUM="ENTER YOU NUMBER HERE: "
+		REM THE MODULUS WILL BE 0 ASSIGNED IN VAR ('SUM')
+		REM I used '%%' because in batch script '%%' means '%'
+		SET /A SUM=NUM%%2
+		
+		IF !SUM! NEQ 0 (
+			color c
+			echo.
+			ECHO You have entered a inpair number: [!SUM!]
+			PAUSE >NUL
+			CLS
+			GOTO menu
+		
+		) ELSE IF !SUM! EQU 0 (
+			color a
+			echo.
+			echo.
+			ECHO You entered a pair number modulus is: [!SUM!]
+			PAUSE >NUL
+			CLS
+			GOTO menu
+			REM THIS LINE WILL NOT WORKS BECAUSE ERRORLEVEL AIN'T WORKING IN THIS CASE^^!
+		
+		) ELSE IF ERRORLEVEL EQU 1 (
+			ECHO.
+			ECHO.
+			ECHO YOU ENTERED A INVALID VALUE
+			PAUSE >NUL
+			CLS
+			GOTO :MENU
+		)
+		SCRIPTS MADE BY IVANDRO ISMAEL GOMES JAO

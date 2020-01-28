@@ -1,0 +1,10 @@
+
+
+first parrametere is errorlevel 9900
+example if we type this command: we will get errorlevel 9009
+\> commanddd 
+
+
+SECOND PARAMETERE "IS ERRORLEVEL 1"
+We get this error when we type invalid syntax in second parametre
+\> dir "fkajfkaj"

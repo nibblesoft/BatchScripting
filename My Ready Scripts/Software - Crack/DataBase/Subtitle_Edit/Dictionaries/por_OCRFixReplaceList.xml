@@ -1,0 +1,80 @@
+<OCRFixReplaceList>
+  <WholeWords>
+    <Word from="abimonáveis" to="abomináveis" />
+    <Word from="atrevessar" to="atravessar" />
+    <Word from="bazam" to="vazam" />
+    <Word from="ben" to="bem" />
+    <Word from="bixos" to="bichos" />
+    <Word from="brucha" to="bruxa" />
+    <Word from="bulemia" to="bulimia" />
+    <Word from="cafe" to="café" />
+    <Word from="caicha" to="caixa" />
+    <Word from="caichoeira" to="cachoeira" />
+    <Word from="caichoeiras" to="cachoeiras" />
+    <Word from="cançar" to="cansar" />
+    <Word from="catra" to="carta" />
+    <Word from="caussada" to="calçada" />
+    <Word from="caxia" to="caixa" />
+    <Word from="directamente" to="diretamente" />
+    <Word from="entao" to="então" />
+    <Word from="eszas" to="essas" />
+    <Word from="exceçao" to="exceção" />
+    <Word from="exceço" to="excesso" />
+    <Word from="Excesões" to="exceções" />
+    <Word from="exeção" to="exceção" />
+    <Word from="explêndido" to="esplêndido" />
+    <Word from="Http" to="http" />
+    <Word from="IA" to="ia" />
+    <Word from="ihe" to="lhe" />
+    <Word from="kai" to="cai" />
+    <Word from="lsso" to="isso" />
+    <Word from="nao" to="não" />
+    <Word from="razam" to="razão" />
+    <Word from="rea" to="era" />
+    <Word from="redordar" to="recordar" />
+    <Word from="reias" to="reais" />
+    <Word from="relacha" to="relaxa" />
+    <Word from="seleccionar" to="selecionar" />
+    <Word from="sinpatico" to="simpático" />
+    <Word from="siúme" to="ciúme" />
+    <Word from="siumes" to="ciúmes" />
+    <Word from="siuva" to="Silva" />
+    <Word from="so" to="só" />
+    <Word from="socia" to="sócia" />
+    <Word from="socias" to="sócias" />
+    <Word from="sócioambientais" to="socioambientais" />
+    <Word from="sóciobiólogas" to="sociobiólogas" />
+    <Word from="sra" to="Sra" />
+    <Word from="srta" to="Srta" />
+    <Word from="tambem" to="também" />
+    <Word from="téxtil" to="têxtil" />
+    <Word from="topico" to="tópico" />
+    <Word from="trabaho" to="trabalho" />
+    <Word from="tv" to="TV" />
+    <Word from="tydo" to="tudo" />
+    <Word from="umildade" to="humildade" />
+    <Word from="voce" to="você" />
+    <Word from="ximarrão" to="chimarrão" />
+    <Word from="xinelo" to="chinelo" />
+    <Word from="xope" to="chope" />
+    <Word from="xulé" to="chulé" />
+    <Word from="xumaço" to="chumaço" />
+    <Word from="xutar" to="chutar" />
+    <Word from="zuar" to="zoar" />
+    <Word from="zuei" to="zoei" />
+  </WholeWords>
+  <PartialWords />
+  <PartialLines>
+    <LinePart from="cara à cara" to="cara a cara" />
+    <LinePart from="tia avó" to="tia-avó" />
+    <LinePart from="tia avós" to="tias-avós" />
+    <LinePart from="tias avos" to="tias-avós" />
+    <LinePart from="tias avós" to="tias-avós" />
+    <LinePart from="tio avô" to="tio-avô" />
+    <LinePart from="tique taque" to="tique-taque" />
+    <LinePart from="todo amores" to="todo-amores" />
+  </PartialLines>
+  <BeginLines />
+  <EndLines />
+  <WholeLines />
+</OCRFixReplaceList>

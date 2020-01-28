@@ -1,0 +1,42 @@
+CTRL + F5 = hard refresh
+Windows Event Viwer how does it works
+
+net help user | more
+net user Ivandrofly * --> to prompt password input by user
+
+:: this cause command error sometimes
+!varName! if command expansion is enables your will need to espace it to display it with two carets ^^!^^!
+
+Variables
+
+http://ss64.com/nt/syntax-args.html
+
+%%~nG
+%~1 = this is mostly used in call parametres
+ex: call :menu "ivandrofly"
+, = sometimes is bettar then dot(.) sometimes the dot shows at the runtimes like in loop command
+^= This is the scape character for scaping the ! we need to use the ^^ carrets...
+() = the brakest need to be use skyped something inside a statement like following:
+	if a = b (
+		echo not equals ^(a^)
+	) else (
+		echo not equals
+	)
+it will remove the quotetion mark in parametere
+
+() = to use parenteses inside statements we must skipe it with  ^(^)
+
+Comparing if nothing entered inside statements = "!t:~0,1!" == "~0,1"
+route: command will fix unidentified network in you pc
+
+Make file 0 bytes
+type NUL > EmptyFile.txt
+
+======================
+This is how to lock computer in Command Prompt
+rundll32.exe user32.dll, LockWorkStation
+============================================= Built in Environment Variables = 
+set will list all the Standard (built-in) Environment Variables
+http://ss64.com/nt/syntax-variables.html
+=======================
+echo %path% will list all the path set open(System\System Protection\Advance\Environment Variables\

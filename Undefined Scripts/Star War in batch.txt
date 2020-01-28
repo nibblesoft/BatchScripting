@@ -1,0 +1,7 @@
+
+
+1)- Goto Control painel
+2)- Programs and settings
+3)- Featuring
+4)- Goto telnet check book and check it [telnet client]
+ telnet towel.blinkenlights.nl
